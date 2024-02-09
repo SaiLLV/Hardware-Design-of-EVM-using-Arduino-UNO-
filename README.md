@@ -1,5 +1,5 @@
 
-# Hardware design of EVM using Arduino Uno Board
+# Hardware Design of EVM using Arduino Uno Board
 
 
 ## Overview
