@@ -39,3 +39,7 @@ At the end of the voting process, the system identifies the candidate with the m
 * The LCD dynamically updates in real-time, showing the current number of candidates and vote counts, providing users with continuous feedback.
 ## Conclusion
 This Arduino-based EVM project demonstrates a simple yet effective electronic voting system. It can be further enhanced with additional security features, candidate names, and a more robust user interface. The project serves as a foundation for understanding the basics of building electronic voting systems using Arduino.
+## Contributors
+Lavanya Vinnakota   
+Divya Kilaru
+
